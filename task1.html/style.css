@@ -1,0 +1,28 @@
+img{
+    width:300px;
+    background-color: blueviolet;
+    margin:10px;
+    barder:10px ridge brown;
+    padding: 20px;
+}
+
+h1{
+    background-color: orange;
+    display: inline-block;
+}
+
+#bharat2{
+   /* padding-left: 50px;
+    padding-top: 100px;
+    padding-right: 25px;
+    padding-bottom: 200px;*/
+    padding: 50px;
+    border:50pxsolid deepskyblue;
+   /* margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;*/
+    margin50px;
+
+
+}
